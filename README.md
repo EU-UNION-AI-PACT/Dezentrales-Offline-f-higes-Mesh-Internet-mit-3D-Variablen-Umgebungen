@@ -1,3 +1,38 @@
+# 3D-MODELING-ANIMATION---FOR---SOTWARE-APPS-TOOLS-PROGRAMMS-KI-AI-TECHNOLOGY
+CC BY-NC-ND (Attribution-NonCommercial-NoDerivatives)
+
+Zeitstempel: 2025-10-30 03:33:00
+
+Input für Hash: | Input String                   | SHA-256 Hash                                                     |
+| ------------------------------ | ---------------------------------------------------------------- |
+| Flash3D_2025-10-30 03:33:00_v1 | e9be9a676f2904eb3c87ed4d86e91665b84adff41f4ba8be32c94cce6c9e9ad8 |
+| Flash3D_2025-10-30 03:33:00_v2 | 848442fea908406bd0140d2072cec0425e80d85594f11058b4ad828d799144f8 |
+| Flash3D_2025-10-30 03:33:00_v3 | bb0f4d95f25dcf5c6f7e489525c056ffef68291a8ba7ea92ee4043071a745a47 |
+| Flash3D_2025-10-30 03:33:00_v4 | 0a46282418b5d3ddf499ac5b5a0d9f4d1a867a7d01d64c70714dfe1fd27246a1 |
+| Flash3D_2025-10-30 03:33:00_v5 | 69127bba0b34bed1c7e6e32641837e6acffca1d3840128f85455e7ced968357a |
+
+CC BY-NC-ND (Attribution-NonCommercial-NoDerivatives)
+
+## Lizenzierung
+
+https://github.com/EU-UNION-AI-PACT/Dezentrales-Offline-f-higes-Mesh-Internet-mit-3D-Variablen-Umgebungen? & 
+https://github.com/EU-UNION-AI-PACT/S4m3T1m3scR022---Gemeinsam-sT4b1L & https://github.com/STarLighTsMoveMenTs/3D-MODELING-ANIMATION---FOR---SOTWARE-APPS-TOOLS-PROGRAMMS-KI-AI-TECHNOLOGY.git & CC BY-NC-ND (Attribution-NonCommercial-NoDerivatives) / https://europea-un-world-lfx-peace-eu-gov-int.netlify.app/ GoodLikeWellWill
+
+Dieses Projekt ist dual-lizenziert:
+
+1. **Öffentlich**: CC BY-NC-ND (Creative Commons Attribution-NonCommercial-NoDerivatives)  
+   - Für nicht-kommerzielle Nutzung, keine Änderungen erlaubt.
+
+2. **Team/Corporate**: Proprietäre Lizenz  
+   - Für interne, kommerzielle Nutzung durch Mitglieder und Partner.  
+   - Kontakt: [deine E-Mail / Kontaktformular] für Lizenzanfragen.
+
+
+Fein. Hier kommt **eine neue, nicht-überlappende Liste** mit Tools, Services und Libraries (34 Einträge) — alles, was dir beim Prompt-basierten Aufbau von 3D-Assets, Welten, Rigging, Animation oder der Game/Film-Pipeline helfen kann. Keine Duplikate aus deiner vorherigen Liste. Kurz, knapp, direkt zu den Seiten.
+
+# Neue Liste (34)
+Alles klar. Dann machen wir die **komplette Fortsetzung** direkt, sauber kategorisiert, sodass du eine **umfassende Übersicht mit 200+ Tools, Libraries und Services** hast – von Prompt-basierten 3D-Generatoren über Sculpting, Texturing, Rigging bis hin zu Game-/Cinematic-Pipelines und Asset-Marktplätzen. Ich nummeriere weiter ab 51.
+
 # Dezentrales-Offline-f-higes-Mesh-Internet-mit-3D-Variablen-Umgebungen
 Dezentrales Offline-CGI-Netzwerk mit 3D/CGI-Variablen Umgebungen
 Dezentrales Offline-Mesh-Internet mit 3D-Variablen Umgebungen
