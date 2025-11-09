@@ -38,7 +38,8 @@ Dezentrales Offline-CGI-Netzwerk mit 3D/CGI-Variablen Umgebungen
 Dezentrales Offline-Mesh-Internet mit 3D-Variablen Umgebungen
 Alles klar — ich erstelle eine **ausführliche Version deines Vorhabens**, die alle Aspekte integriert: SIP/CIP-Trunks, Satellitenmatrix, Offline-Mesh-Internet, magnetische Nodes, DevOps/GitHub-Integration und meshy AI für 3D-variablen Umgebungen. Ich werde das strukturiert als **umfangreiches Whitepaper / One-Paper** aufbauen, sodass Vision, Architektur, technische Details, Workflow, Hardware und Software abgedeckt sind.
 
----
+---<img width="1024" height="1024" alt="https:⁄⁄europea-un-world-lfx-peace-eu-gov-int netlify app" src="https://github.com/user-attachments/assets/7af5dc7a-4203-4914-b1d9-63607425e141" />
+
 
 # **Whitepaper: Dezentrales, Offline-fähiges Mesh-Internet mit 3D-variablen Umgebungen**
 
@@ -282,4 +283,5 @@ Das System ermöglicht:
 
 ---
 
+<img width="1536" height="1024" alt="ChatGPT Image 9  Nov  2025, 19_56_02" src="https://github.com/user-attachments/assets/bb34843d-b40f-43f4-9ff1-0f90ff864a01" />
 
